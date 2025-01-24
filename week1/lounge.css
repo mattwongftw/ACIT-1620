@@ -1,0 +1,25 @@
+h1,
+h2 {
+
+  font-family: sans-serif;
+  color: gray;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  color: maroon;
+  margin: 0;
+  padding: 0;
+}
+em {
+  font-family: serif;
+}
+p.greentea {
+    color: green;
+}
+p.blueberry {
+    color: blue;
+}
+p.cranberry {
+    color: red;
+}
