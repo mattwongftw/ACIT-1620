@@ -1,0 +1,30 @@
+@media screen and (min-device-width:481px) {
+    
+}
+#guarantee{
+    border-color: white;
+    border-width: thick;
+    border-style: dashed;
+    background-color: #a7cece;
+    padding: 25px;
+    margin: 30px    ;
+    border-radius: 15px;
+    background-image: url(images/background.gif);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+h {
+    font-size: 130%;
+}
+@media print {
+}
+body {
+    font-size: small;
+    font-family: verdana, helvita, arial, sans-serif;
+    line-height:1.6em;
+}
+@media screen and (max-device-width:480px) {
+    #gurantee {
+        margin-right: 30px;
+    }
+}
